@@ -12,7 +12,7 @@ Objective: Predict salaries accurately using Linear Regression.
 
 Tools & Skills:
 
-Python, Pandas, NumPy
+Python, Pandas
 
 scikit-learn (Linear Regression)
 
